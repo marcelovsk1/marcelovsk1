@@ -9,15 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 📄 Know about my experiences (https://flowcv.com/resume/p29t6q3gne)
-
-- 💬 Ask me about **Brand and Design**
+- 💬 Ask me about **Branding and Design**
 
 - 📫 How to reach me **marceloaa@live.com**
 
 - 📄 Know more about my experiences [here](https://flowcv.com/resume/p29t6q3gne)
 
-- 🔗 Connect with me on [LinkedIn] (https://www.linkedin.com/in/marceloamaralalves/)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marceloamaralalves/)
 
 - ⚡ Fun fact **I'm a huge F1 fan 🏎️🏁**
 
