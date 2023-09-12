@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 📄 Know about my experiences [here](https://flowcv.com/resume/p29t6q3gne)
+- 📄 Know about my experiences (https://flowcv.com/resume/p29t6q3gne)
 
 - 💬 Ask me about **Brand and Design**
 
