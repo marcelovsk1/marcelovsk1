@@ -7,7 +7,7 @@
 
 - 🤝 I already collaborate on [Game of Codes](https://github.com/KittySou/game-of-codes)
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available on [my portfolio](https://marceloamaral.dev/)
 
 - 💬 Ask me about **Branding and Design**
 
