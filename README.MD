@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelovsk1&label=Profile%20views&color=0e75b6&style=flat" alt="marcelovsk1" /> </p>
 
-- 🌱 I’m currently learning **Swift Ui**
+- 🌱 I’m currently expanding my knowledge in **Swift Ui**
 
 - 🤝 I already collaborate on [Game of Codes](https://github.com/KittySou/game-of-codes)
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://marceloamaral.dev/)
 
-- 💬 Ask me about **Branding and Design**
+- 💬 Ask me about **Design and Interface**
 
 - 📫 How to reach me **marceloaa@live.com**
 
