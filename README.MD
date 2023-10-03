@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I'm a huge F1 fan 🏎️🏁**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
