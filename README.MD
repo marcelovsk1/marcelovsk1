@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcelo </h1>
-<h3 align="center">Mobile/iOS Developer</h3>
+<h3 align="center">iOS Developer</h3>
 
 
 - 🌱 I’m currently expanding my knowledge in **Swift UI** and **Flutter**
