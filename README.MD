@@ -2,7 +2,7 @@
 <h3 align="center">iOS Developer</h3>
 
 
-- 🌱 I’m currently expanding my knowledge in **Swift UI** and **Flutter**
+- 🌱 I’m currently expanding my knowledge in **Swift UI** 
 
 - 🤝 I already collaborate on [Game of Codes](https://github.com/KittySou/game-of-codes)
 
