@@ -9,16 +9,11 @@
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://marceloamaral.dev/)
 
-- 💬 Ask me about **Design and Interface**
-
 - 📫 How to reach me **marceloaa@live.com**
 
 - 📄 Know more about my experiences [here](https://flowcv.com/resume/p29t6q3gne)
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marceloamaralalves/)
-
-- ⚡ Fun fact **I'm a huge F1 fan 🏎️🏁**
-
 
 <p align="left">
 </p>
