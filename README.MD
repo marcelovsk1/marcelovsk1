@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcelo </h1>
-<h3 align="center">iOS Developer</h3>
+<h3 align="center">iOS/Fullstack Developer</h3>
 
 - 💻 Developer at **Trendit Montreal**
 
