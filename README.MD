@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marcelo </h1>
 <h3 align="center">iOS/Fullstack Developer</h3>
 
-- 💻 Developer at **Trendit Montreal**
+- 💻 Developer at **Trendit - Find Events**
 
 - 🌱 I’m currently expanding my knowledge in **Swift UI** 
 
