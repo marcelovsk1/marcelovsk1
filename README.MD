@@ -7,7 +7,7 @@
 
 - 🤝 I already collaborate on [Game of Codes](https://github.com/KittySou/game-of-codes)
 
-- 👨‍💻 All of my projects are available on [my portfolio](https://marceloamaral.dev/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://marceloaa.dev/)
 
 - 📫 How to reach me **marceloaa@live.com**
 
