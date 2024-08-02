@@ -3,15 +3,9 @@
 
 - 💻 Frontend Developer at **EVRY JEWELS**
 
-- 🌱 I’m currently expanding my knowledge in **Swift UI** 
-
-- 🤝 I already collaborate on [Game of Codes](https://github.com/KittySou/game-of-codes)
-
 - 👨‍💻 All of my projects are available on [my portfolio](https://marceloaa.dev/)
 
 - 📫 How to reach me **marceloaa@live.com**
-
-- 📄 Know more about my experiences [here](https://flowcv.com/resume/p29t6q3gne)
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marceloamaralalves/)
 
