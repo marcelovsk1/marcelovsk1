@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marcelo </h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 💻 Frontend Developer at **EVRY JEWELS**
+- 💻 Frontend Developer at **EVRY JEWELS @evryjewels**
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://marceloaa.dev/)
 
