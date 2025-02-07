@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Marcelo </h1>
 <h3 align="center">Software Developer</h3>
 
-- 💻 Frontend Developer at **EVRY JEWELS**
+- 💻 Software Developer at **EVRY JEWELS**
+
+- 🌟 **Le Wagon Montreal** Alumni
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://marceloaa.dev/)
 
