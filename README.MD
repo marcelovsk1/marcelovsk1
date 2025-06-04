@@ -3,6 +3,8 @@
 
 - 💻  **Shopify Dev**
 
+- 🤖 **AI Training Analyst**
+
 - 🌟 **Le Wagon Montreal** Alumni
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://marceloaa.dev/)
