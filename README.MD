@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://marceloaa.dev/)
 
-- 📫 How to reach me **marceloaa@live.com**
-
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marceloamaralalves/)
 
 <p align="left">
