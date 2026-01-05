@@ -3,7 +3,7 @@
 
 - 💻  **Shopify Dev**
 
-- 🤖 **AI Training Analyst**
+- 🤖 **LLM Training**
 
 - 🌟 **Le Wagon Montreal** Alumni
 
